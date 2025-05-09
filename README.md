@@ -39,24 +39,4 @@ Voting patterns
 Spending behavior of online customers
 Rating comparisons across service modes
 Strategy to improve offline engagement
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-Jupyter Notebook
-100.0%
-Footer
+
